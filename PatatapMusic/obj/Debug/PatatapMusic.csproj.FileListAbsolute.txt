@@ -1,0 +1,12 @@
+D:\PatatapMusic\PatatapMusic\bin\Debug\PatatapMusic.exe.config
+D:\PatatapMusic\PatatapMusic\bin\Debug\PatatapMusic.exe
+D:\PatatapMusic\PatatapMusic\bin\Debug\PatatapMusic.pdb
+D:\PatatapMusic\PatatapMusic\bin\Debug\WebDriver.dll
+D:\PatatapMusic\PatatapMusic\bin\Debug\WebDriver.Support.dll
+D:\PatatapMusic\PatatapMusic\bin\Debug\WebDriver.xml
+D:\PatatapMusic\PatatapMusic\bin\Debug\WebDriver.Support.xml
+D:\PatatapMusic\PatatapMusic\obj\Debug\PatatapMusic.csprojAssemblyReference.cache
+D:\PatatapMusic\PatatapMusic\obj\Debug\PatatapMusic.csproj.CoreCompileInputs.cache
+D:\PatatapMusic\PatatapMusic\obj\Debug\PatatapMusic.csproj.CopyComplete
+D:\PatatapMusic\PatatapMusic\obj\Debug\PatatapMusic.exe
+D:\PatatapMusic\PatatapMusic\obj\Debug\PatatapMusic.pdb
